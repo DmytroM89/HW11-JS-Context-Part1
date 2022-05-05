@@ -1,4 +1,4 @@
-# HW13 JS Context Part 1
+# HW11 JS Context Part 1
 
 1. Нужно исправить следующий код  
 <https://gist.github.com/OlegRovenskyi/2903d0168cfe880cff394ff2fbdb3a89>  
